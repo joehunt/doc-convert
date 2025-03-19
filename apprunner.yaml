@@ -9,4 +9,4 @@ build:
     build:
       - pip install --no-cache-dir -r requirements.txt
 run: 
-  command: python app.py
+  command: python3 app.py
